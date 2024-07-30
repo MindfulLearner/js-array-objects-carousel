@@ -28,6 +28,27 @@ const images = [
     }
 ];
 
+// VARIABILI DELL'HTML
+// card
+let card = document.querySelectorAll('.card');
+// imgContainer
+let imgContainer = document.querySelectorAll('.imgContainer');
+// o m g 
+let img = document.querySelectorAll('.img');
+// title
+let title = document.querySelectorAll('.title');
+// text
+let text = document.querySelectorAll('.text');
+
+
+
+
+
+
+
+
+
+
 
 
 
