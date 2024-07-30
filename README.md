@@ -1,4 +1,4 @@
-# js-array-objects-carousel
+ js-array-objects-carousel
 
 Dato un array di oggetti letterali con:
  - url dell'immagine
