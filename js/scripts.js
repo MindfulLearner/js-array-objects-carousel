@@ -53,7 +53,6 @@ let contaImg = 0
 card[contaImg].classList.remove('hidden');
 console.log('conteggio Img: ' + contaImg);
 
-
 document.querySelector('.destra').addEventListener('click', function() {
 	if (contaImg < 4) {
 		contaImg++;
@@ -70,7 +69,6 @@ document.querySelector('.destra').addEventListener('click', function() {
 		console.log('ciao destra');
 	}
 });
-
 document.querySelector('.sinistra').addEventListener('click', function() {
 	if (contaImg > 0) {
 		contaImg--;
@@ -86,6 +84,13 @@ document.querySelector('.sinistra').addEventListener('click', function() {
 		console.log('ciao sinistra');
 	}
 });
+
+
+
+
+
+
+
 
 
 
